@@ -1,0 +1,38 @@
+ body{
+    margin:0;
+    padding:0;
+
+ }
+ #kapsamaAlani{
+    width:100%;
+    height:100%;
+    text-align: center;
+ }
+ #haberAlani{
+    width:1000px;
+    height:auto;
+    margin:0 auto;
+    margin-top:20px;
+    text-align:left;
+ }
+ #baslikAlani{
+    width:900px;
+    height:60px;
+    float:left;
+    text-align:left;
+ }
+ #iconArea{
+    width:100px;
+    height:45px;
+    padding-top:15px;
+    float:right;
+    text-align:right;
+    cursor: pointer;
+ }
+ img{
+    padding-right:7px;
+ }
+ #icerik{
+    text-align:justify;
+    font-size:15px;
+ }
